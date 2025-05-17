@@ -4,11 +4,11 @@
 
 <h1 align="center">Soluciones AED – Guía de Trabajos Prácticos</h1>
 
-Nombre: Juan Pérez
+Nombre: Daniel Tossutti
 
-Comisión: Z
+Comisión: K1.3 "C"
 
-Año de cursado: 2069
+Año de cursado: 2025
 
 Este repositorio es una **plantilla no oficial** pensada para que cada estudiante pueda subir sus propias soluciones a los ejercicios de la [Guía de Trabajos Prácticos](https://aed-frre.github.io/) de la materia *Algoritmos y Estructuras de Datos (AED)*.
 
